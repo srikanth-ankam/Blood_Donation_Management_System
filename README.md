@@ -20,28 +20,7 @@ A web-based platform that bridges blood donors and recipients for timely, secure
 
 
 
-File Structure
-Blood_Donation_Management_System/
-│
-├── index.php # Home Page
-├── donor_login.php # Donor Login
-├── register_donor.php # Donor Registration
-├── donor_dashboard.php # Donor Dashboard
-├── donate_blood.php # Donation Action
-├── php/
-│ ├── db_connect.php # Database Config
-│ ├── donor_auth.php # Donor Login Logic
-│ ├── process_donation.php # Donation Process
-│ ├── logout_donor.php # Donor Logout
-│ ├── certificate.php # Donation Certificate Generator
-│ └── mailer.php # Email Functionality
-├── css/
-│ └── style.css # Custom Styles
-├── sql/
-│ └── blood_donation.sql # Database Schema
-├── images/
-│ └── blood.jpeg # Blood Image for Certificate
-└── README.md # This File
+
 
 
 

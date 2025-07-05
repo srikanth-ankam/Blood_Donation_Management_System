@@ -188,6 +188,10 @@ Emails not working: Use a third-party SMTP service (like Gmail SMTP) if needed
 
 
 
+<h3><b>📊 Project Presentation</b></h3>
+[Blood_Donation_Management_System_Project.pptx](https://github.com/user-attachments/files/21071559/Blood_Donation_Management_System_Project.pptx)
+
+
 
 
 <h3><b>MIT License</b></h3>

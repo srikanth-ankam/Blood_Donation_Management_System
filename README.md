@@ -20,6 +20,9 @@ A web-based platform that bridges blood donors and recipients for timely, secure
 
 🖨️ Printable certificates and responsive forms
 
+<h3><b>File Structure</b></h3>
+Note: This structure includes additional useful files (like presentation, screenshots, and extended features) which are not part of the original project ZIP. You’re free to include or remove them based on your deployment needs.
+![File_Structure](https://github.com/user-attachments/assets/0e7dec5f-a503-4279-8c0b-a79c133b0e73)
 
 
 

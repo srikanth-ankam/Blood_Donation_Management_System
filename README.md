@@ -1,10 +1,11 @@
-<h3>#Life Saver</h3>
+<h3><b>#Life Saver</b></h3>
 
 A web-based platform that bridges blood donors and recipients for timely, secure, and location-based blood donations. Built using PHP, MySQL, HTML/CSS, and hosted on InfinityFree.
-🚀 Live Demo
+
+<h3><b>🚀 Live Demo</b></h3>
 🌍 Website: http://lifesaver.rf.gd
 
-<h3>🔧 Features</h3>
+<h3><b>🔧 Features</b></h3>
 🧑‍💻 Donor & Recipient Registration/Login
 
 📩 Real-time email alerts to donors
@@ -26,7 +27,7 @@ A web-based platform that bridges blood donors and recipients for timely, secure
 
 
 
-<h3>Tech Stack</h3>
+<h3><b>Tech Stack</b></h3>
 
 | Layer     | Technology                  |
 |-----------|-----------------------------|
@@ -38,7 +39,7 @@ A web-based platform that bridges blood donors and recipients for timely, secure
 
 
 
-
+<h3><b>Installation & Setup</b></h3>
 
 Here's a step-by-step guide on how to host your Blood Donation Management System on InfinityFree for free:
 
@@ -138,7 +139,22 @@ Go to: http://lifesaver.rf.gd (or your subdomain)
 
 Your Blood Donation Management System should load!
 
-✅ Tips for Success
+
+
+
+<h3><b>Security</b></h3>
+
+Ensure you are using password_hash() and password_verify() for user passwords rather than raw hashing.
+
+Protect against SQL injection by using prepared statements (e.g., PDO or mysqli with bind parameters).
+
+Implement CSRF protection on forms and session timeout/inactivity handling.
+
+
+
+
+
+<h3><b>✅ Tips for Success</b></h3>
 Task	Tool
 Upload files	InfinityFree File Manager / FileZilla
 View or manage database	phpMyAdmin from cPanel
@@ -147,7 +163,7 @@ Deploy changes	Replace files via File Manager
 Use SSL (HTTPS)	Enable free SSL in InfinityFree panel
 Troubleshooting	Check File Manager paths and DB creds
 
-🆘 Common Issues
+<h3><b>🆘 Common Issues</b></h3>
 403 Forbidden: Means wrong folder/file permissions or index.php missing
 
 DB Connection Failed: Check host, username, and database name
@@ -160,7 +176,7 @@ Emails not working: Use a third-party SMTP service (like Gmail SMTP) if needed
 
 
 
-<h3>Screenshots</h3>
+<h3><b>Screenshots</b></h3>
 
 ![Screenshot 1](https://github.com/user-attachments/assets/e177ef0a-bdd7-42a6-86b9-1b317740dc85)
 ![Screenshot 2](https://github.com/user-attachments/assets/b2233422-0222-44b4-9230-c8129522f8ac)
@@ -174,7 +190,7 @@ Emails not working: Use a third-party SMTP service (like Gmail SMTP) if needed
 
 
 
-<h3>MIT License</h3>
+<h3><b>MIT License</b></h3>
 
 Copyright (c) 2025 Ankam Srikanth
 

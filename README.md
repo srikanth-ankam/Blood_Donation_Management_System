@@ -40,7 +40,7 @@ A web-based platform that bridges blood donors and recipients for timely, secure
 
 
 
-ere's a step-by-step guide on how to host your Blood Donation Management System on InfinityFree for free:
+Here's a step-by-step guide on how to host your Blood Donation Management System on InfinityFree for free:
 
 🌐 Step-by-Step: Hosting with InfinityFree
 🔸 1. Create an Account
